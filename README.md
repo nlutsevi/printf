@@ -1,6 +1,5 @@
-Resumen: Este proyecto es claro y eficaz. Tiene que volver a programar printf. A partir
-de ahí, tendrá la posibilidad de reutilizarlo en sus proyectos futuros. Este proyecto trata
-principalmente de los argumentos de tamaño variable.
+The versatility of the printf function in C represents a great exercise in programming for
+us. This project is of moderate difficulty. It will enable you to discover variadic functions
+in C.
 
-La versatilidad de printf en C nos permite hacer un buen ejercicio de programación.
-La dificultad de este proyecto es moderada. Le va a permitir utilizar los kwargs en C.
+The key to a successful ft_printf is a well-structured and good extensible code.
